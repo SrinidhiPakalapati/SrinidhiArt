@@ -54,3 +54,47 @@ body::before {
 .nav a:hover::after {
     width:100%;
 }
+.hero-section {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height:90vh;
+}
+.hero-section h1{
+    font-family: 'Agu Display';
+    font-weight: 500;
+    font-size:xxx-large;
+    color: rgb(74, 74, 74);
+    margin: 0;
+    margin-bottom: 30px;
+}
+.hero-section h3{
+    font-family: 'Amaranth';
+    font-weight:200;
+    font-size:medium;
+    color: rgba(74, 74, 74,0.77);
+    margin: 0;
+    margin-bottom: 10px;
+}
+.hero-text button{
+    background-color: rgb(203,203,203);
+    padding:10px;
+    border: 1.5px solid rgb(74,74,74);
+    color: rgb(74, 74, 74);
+    border-radius: 10px;
+    font-family: 'Amaranth';
+    background:solid;
+    position: relative;
+    z-index: 4;
+}
+.hero-text {
+    padding: 20px;
+}
+.hero-image {
+    padding: 20px;
+}
+.hero-image img{
+    width:350px;
+    position:relative;
+    z-index: 4;
+}
