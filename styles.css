@@ -59,22 +59,23 @@ body::before {
     align-items: center;
     justify-content: space-between;
     height:90vh;
+    min-height: 90vh;
 }
 .hero-section h1{
     font-family: 'Agu Display';
     font-weight: 500;
-    font-size:xxx-large;
+    font-size:6rem;
     color: rgb(74, 74, 74);
     margin: 0;
-    margin-bottom: 30px;
+    margin-bottom: 2px;
 }
 .hero-section h3{
     font-family: 'Amaranth';
     font-weight:200;
-    font-size:medium;
+    font-size:2rem;
     color: rgba(74, 74, 74,0.77);
     margin: 0;
-    margin-bottom: 10px;
+    margin-bottom: 28px;
 }
 .hero-text button{
     background-color: rgb(203,203,203);
@@ -83,18 +84,38 @@ body::before {
     color: rgb(74, 74, 74);
     border-radius: 10px;
     font-family: 'Amaranth';
-    background:solid;
     position: relative;
     z-index: 4;
+    cursor:pointer;
 }
 .hero-text {
-    padding: 20px;
+    padding: 30px;
+    margin-left: 10px;
+    flex:1;
 }
 .hero-image {
+    display: flex;
     padding: 20px;
+    align-items: center;
+    justify-content: center;
+    flex:1;
 }
 .hero-image img{
     width:350px;
+    border-radius: 10px;
     position:relative;
     z-index: 4;
+}
+@media (max-width: 768px) {
+    .hero-section{
+        flex-direction: column;
+        text-align: center;
+        padding: 20px;
+    }
+    .hero-section h1{
+        font-size:3rem;
+    }
+    .hero-image img{
+        width:250px;
+    }
 }
