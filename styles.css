@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    position: relative;
+    position:relative;
 }
 body::before {
     content:'';
@@ -80,9 +80,11 @@ body::before {
 .hero-text button{
     background-color: rgb(203,203,203);
     padding:10px;
+    padding-left: 20px;
+    padding-right: 20px;
     border: 1.5px solid rgb(74,74,74);
     color: rgb(74, 74, 74);
-    border-radius: 10px;
+    border-radius: 20px;
     font-family: 'Amaranth';
     position: relative;
     z-index: 4;
@@ -103,7 +105,7 @@ body::before {
 .hero-image img{
     width:350px;
     border-radius: 10px;
-    position:relative;
+    position: relative;
     z-index: 4;
 }
 @media (max-width: 768px) {
