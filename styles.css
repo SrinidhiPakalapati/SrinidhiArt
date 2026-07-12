@@ -127,6 +127,7 @@ body::before {
     border-radius: 50%;
     position: relative;
     z-index: 4;
+    border: 1px solid;
 }
 .aboutme {
     display: flex;
@@ -161,7 +162,7 @@ footer {
     font-weight: lighter;
     position: relative;
     z-index: 4;
-    color: rgba(74, 74, 74,0.77);
+    color: #4A4A4A;
 }
 
 @media (max-width: 768px) {
