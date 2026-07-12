@@ -121,3 +121,36 @@ body::before {
         width:250px;
     }
 }
+.about {
+    background-color: #6d8196;
+    padding:20px;
+    display:flex;
+}
+.profile-img {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-img img{
+    width: 20rem;
+    border-radius: 50%;
+    position: relative;
+    z-index: 4;
+}
+.aboutme {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.aboutme p{
+    color: white;
+    font-size: larger;
+    font-family: 'Amaranth';
+}
+.aboutme h3{
+    color: white;
+    font-size:xx-large;
+    font-family:  'Agu Display' ;
+    padding: 0;
+}
