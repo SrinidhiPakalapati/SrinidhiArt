@@ -223,6 +223,53 @@ footer {
     z-index: 4;
 }
 
+
+.blogs-body {
+    background-color: rgba(255, 255, 227, 0.8);
+    margin: 0;
+    padding: 10px;
+}
+
+.blog-text {
+    text-align: center;
+    padding: 100px;
+}
+
+.blog-text h1 {
+    font-family: 'Agu Display';
+    font-weight: normal;
+    font-size: 4rem;
+    color: rgb(74, 74, 74);
+    margin-bottom: 10px;
+}
+
+.blog-text p {
+    font-family: 'Amaranth';
+    font-weight: lighter;
+    font-size: 1.2rem;
+    color: rgba(74, 74, 74, 0.77);
+}
+
+.contact-body {
+    background-color: rgba(255, 255, 227, 0.8);
+    margin: 0;
+    padding: 10px;
+}
+
+.contact-text h1 {
+    font-family: 'Agu Display';
+    font-weight: normal;
+    font-size: 2rem;
+    color: rgb(74, 74, 74);
+    margin-bottom: 10px;
+}
+
+.contact-text p{
+    font-family: 'Amaranth';
+    font-weight: lighter;
+    font-size: 2rem;
+    color: rgba(74, 74, 74, 0.77);
+}
 @media (max-width: 768px) {
     .hero-section{
         flex-direction: column;
@@ -258,5 +305,11 @@ footer {
 
     .aboutme h3 {
         font-size: 3rem;
+    }
+    .contact-text h1 {
+    font-size: 1.6rem;
+    }
+    .contact-text p {
+    font-size: 1.2rem;
     }
 }
