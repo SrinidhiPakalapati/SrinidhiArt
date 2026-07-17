@@ -287,6 +287,13 @@ footer {
 .contact-card a{
     color:white;
 }
+.mandala img{
+    height:18rem;
+    border-radius: 8px;
+}
+.mandala {
+    padding:18px;
+}
 
 @media (max-width: 768px) {
     .hero-section{
