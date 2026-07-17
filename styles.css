@@ -290,6 +290,8 @@ footer {
 .mandala img{
     height:18rem;
     border-radius: 8px;
+    position:relative;
+    z-index: 10;
 }
 .mandala {
     padding:18px;
