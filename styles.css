@@ -270,6 +270,24 @@ footer {
     font-size: 2rem;
     color: rgba(74, 74, 74, 0.77);
 }
+
+.contact-card {
+    background-color: rgb(109, 129, 150);
+    border-radius: 10px;
+    padding:20px;
+    position:relative;
+    z-index: 10;
+    display:flex;
+    align-items: center;
+    gap: 2rem;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.contact-card a{
+    color:white;
+}
+
 @media (max-width: 768px) {
     .hero-section{
         flex-direction: column;
