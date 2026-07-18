@@ -298,6 +298,16 @@ footer {
     gap:28px;
 }
 
+.blog-card {
+    background-color: rgb(109, 129, 150);
+    padding:18px;
+    display:flex;
+    gap: 2rem;
+    position:relative;
+    z-index: 10;
+    color:white;
+}
+
 @media (max-width: 768px) {
     .hero-section{
         flex-direction: column;

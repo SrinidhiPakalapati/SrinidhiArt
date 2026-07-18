@@ -1,8 +1,8 @@
 const blog = [
     {
-        title: "",
-        description: "",
-        date: "",
+        title: "Title",
+        description: "Description-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+        date: "xx/yy/zz",
         link: "blogs/",
         image: "blog-cover/",
     }
@@ -10,7 +10,7 @@ const blog = [
 
 const blogsGrid = document.getElementById('blogs-grid');
 
-blogs.forEach(function(blog) {
+blog.forEach(function(blog) {
     blogsGrid.innerHTML += `
         <div class="blog-card">
             <img src="${blog.image}" class="blog-thumb"/>
