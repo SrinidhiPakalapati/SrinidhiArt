@@ -319,6 +319,8 @@ footer {
     object-fit: cover;
     flex-shrink: 0;
 }
+
+
 @media (max-width: 768px) {
     .hero-section{
         flex-direction: column;
