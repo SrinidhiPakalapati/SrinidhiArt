@@ -27,3 +27,11 @@ SrinidhiArt is my personal art portfolio were I showcase my artworks, and come u
 2. Artworks - Here are the all Artworks I have made
 3. Blogs- This contains blog cards which locate to the respective blogs
 4. Contact - Here are my Email and Github Account to get in touch
+
+# Future Plans
+1. Add a 'likes system' to the artworks, when they can like a artwork if they love it!!
+2. Improve the Contact Page with something like a form where they can fill it out.
+3. To make the website more good looking with small doodles, like making it aesthetic or so..
+That's all for now, maybe brainstorming for more!!
+
+# Signing Off, Your Srinidhi!! Made this project with <3
