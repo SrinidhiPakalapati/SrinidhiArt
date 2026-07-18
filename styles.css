@@ -230,25 +230,6 @@ footer {
     padding: 10px;
 }
 
-.blog-text {
-    text-align: center;
-    padding: 100px;
-}
-
-.blog-text h1 {
-    font-family: 'Agu Display';
-    font-weight: normal;
-    font-size: 4rem;
-    color: rgb(74, 74, 74);
-    margin-bottom: 10px;
-}
-
-.blog-text p {
-    font-family: 'Amaranth';
-    font-weight: lighter;
-    font-size: 1.2rem;
-    color: rgba(74, 74, 74, 0.77);
-}
 
 .contact-body {
     background-color: rgba(255, 255, 227, 0.8);
@@ -295,6 +276,26 @@ footer {
 }
 .mandala {
     padding:18px;
+}
+
+.blogs-text h1{
+    font-family: 'Agu Display';
+    font-weight: lighter;
+    color: rgb(74,74,74);
+}
+
+.blogs-text h3 {
+    font-family: 'Amaranth';
+    font-weight: 2rem;
+    font-weight: lighter;
+    color: rgba(74, 74, 74, 0.77);
+}
+
+.blogs-grid {
+    padding:60px;
+    display:flex;
+    flex-direction: column;
+    gap:28px;
 }
 
 @media (max-width: 768px) {
