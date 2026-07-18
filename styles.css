@@ -308,6 +308,10 @@ footer {
     color:white;
 }
 
+.blog-card a{
+    color:white;
+}
+
 @media (max-width: 768px) {
     .hero-section{
         flex-direction: column;
@@ -350,4 +354,8 @@ footer {
     .contact-text p {
     font-size: 1.2rem;
     }
+    .blog-card{
+        flex-direction: column;
+    }
+    
 }
