@@ -306,12 +306,19 @@ footer {
     position:relative;
     z-index: 10;
     color:white;
+    font-weight: 50px;
 }
 
 .blog-card a{
     color:white;
 }
-
+.blog-thumb {
+    max-height: 150px;
+    width: 160px;
+    border-radius: 10px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
 @media (max-width: 768px) {
     .hero-section{
         flex-direction: column;
