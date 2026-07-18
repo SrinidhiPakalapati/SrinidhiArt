@@ -5,3 +5,25 @@ Magic Colours from the Heart
 The website is online in the below link -<br>
 [Website Link](https://srinidhiart.vercel.app/)
 
+# Preview of the Site
+![Preveiw here](<Screenshot 2026-07-05 164918.png>)
+
+# About the Project
+SrinidhiArt is my personal art portfolio were I showcase my artworks, and come up with many useful blogs. From my childhood, Art has been one of my most favorite hobby that I can't leave in my life. It helps me give relief and make me feel stress-free. So, this project is a intersection of two of my favorite activites- Art and Coding.
+
+# Features in the Project
+1. <b>Art Gallary</br>: In this project, I have dedicated a whole web page for my artworks. I have used Javascript for this to make it easy to upload a new art work.
+2. <br>Upload Date</br>: In every artwork, you could see the date it was created.
+3. <br>Blogs</br>: I will be consistently uploading new blogs about art in this website.
+
+# Tech Used
+1. HTML(Hyper Text Markup Language)
+2. CSS (Cascading Style Sheet)
+3. JavaScript
+4. Figma
+
+# Pages in the Website
+1. Home Page - Contains a welcoming section, about me and a footer
+2. Artworks - Here are the all Artworks I have made
+3. Blogs- This contains blog cards which locate to the respective blogs
+4. Contact - Here are my Email and Github Account to get in touch
