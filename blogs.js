@@ -17,7 +17,7 @@ blog.forEach(function(blog) {
             <div class="blog-info">
                 <h2 class="blog-title">${blog.title}</h2>
                 <p class="blog-desc">${blog.description}</p>
-                <p class="blog-date">${blog.date}</p>
+                <p class="blog-date">Published on: ${blog.date}</p>
                 <a href="${blog.link}" class="blog-btn">Read the Blog →</a>
             </div>
         </div>
