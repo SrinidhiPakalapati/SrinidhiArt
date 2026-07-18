@@ -13,8 +13,8 @@ SrinidhiArt is my personal art portfolio were I showcase my artworks, and come u
 
 # Features in the Project
 1. <b>Art Gallary</b>: In this project, I have dedicated a whole web page for my artworks. I have used Javascript for this to make it easy to upload a new art work.
-2. <br>Upload Date</b>: In every artwork, you could see the date it was created.
-3. <br>Blogs</b>: I will be consistently uploading new blogs about art in this website.
+2. <b>Upload Date</b>: In every artwork, you could see the date it was created.
+3. <b>Blogs</b>: I will be consistently uploading new blogs about art in this website.
 
 # Tech Used
 1. HTML(Hyper Text Markup Language)
