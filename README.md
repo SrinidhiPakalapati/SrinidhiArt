@@ -29,9 +29,10 @@ SrinidhiArt is my personal art portfolio were I showcase my artworks, and come u
 4. Contact - Here are my Email and Github Account to get in touch
 
 # Future Plans
-1. Add a 'likes system' to the artworks, when they can like a artwork if they love it!!
-2. Improve the Contact Page with something like a form where they can fill it out.
-3. To make the website more good looking with small doodles, like making it aesthetic or so..<br>
+1. Need to make it more mobile-friendly.
+2. Add a 'likes system' to the artworks, when they can like a artwork if they love it!!
+3. Improve the Contact Page with something like a form where they can fill it out.
+4. To make the website more good looking with small doodles, like making it aesthetic or so..<br>
 That's all for now, maybe brainstorming for more!!
 
 # Signing Off, Your Srinidhi!! Made this project with <3
