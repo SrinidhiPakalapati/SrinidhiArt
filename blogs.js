@@ -1,8 +1,8 @@
 const blog = [
     {
-        title: "How I built this website from scratch",
-        description: "This is the story of how I have designed and coded this website.",
-        date: "18/07/26",
+        title: "This is my first blog!!",
+        description: "Nothing :| ",
+        date: "15/01/26",
         link: "blogs/blog1.html",
         image: "blog-cover/cover1.png",
     }
