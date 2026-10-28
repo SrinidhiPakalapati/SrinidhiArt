@@ -1,6 +1,5 @@
 const artworks = [
-    { img: "artworks/littlekrishna.png", date: "22/09/2026"},
-    { img: "artworks/potpainting.png", date: "12/09/2026"},
+    { img: "artworks/venkateshwara.jpeg", date: "23/09/2026"},
     { img: "artworks/pfp.jpeg", date: "29/06/2026"},
     { img: "artworks/elephant.jpeg", date: "27/06/2026" },
     { img: "artworks/mirrors.jpeg", date: "23/06/2025" },
