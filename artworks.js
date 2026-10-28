@@ -15,7 +15,7 @@ const gallery = document.getElementById('gallery');
 artworks.forEach(function(artwork) {
     gallery.innerHTML += `
     <div class="art-card">
-        <img src="${artwork.img}"/>
+        <img src="${artwork.img}" loading="lazy"/>
         <div class="card-info">
             <p class="art-date">Made: ${artwork.date}</p>
         </div>
